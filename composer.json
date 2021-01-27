@@ -1,5 +1,5 @@
 {
-    "name": "stayallive/tlsa",
+    "name": "magora-labs/tlsa",
     "description": "Generate TLSA records in PHP.",
     "keywords": [
         "TLSA",
